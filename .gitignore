@@ -1,0 +1,19 @@
+# Arquivos de compilação e binários gerados pelo compilador
+**/build/
+**/dist/
+**/*.o
+**/*.d
+**/*.p1
+**/*.hex
+**/*.cof
+**/*.elf
+**/*.map
+
+# Configurações locais da IDE (Caminhos absolutos do seu PC)
+**/nbproject/private/
+**/nbproject/Makefile-*
+**/nbproject/Package-*
+
+# Arquivos temporários e backups
+**/*.bak
+**/*.clog
