@@ -4,6 +4,9 @@
 
 Este projeto consiste em um firmware desenvolvido em C para o microcontrolador \*\*PIC12F1840\*\*, projetado para ler o sinal PWM de um canal do receptor de controle remoto de um drone GoHobby e convertê-lo/mapeá-lo em um sinal PWM padrão para controle de servomotores de 0 a 180 graus.
 
+![Diagrama ESP32 e Sensor SHT31](./sch.jpg)
+
+
 
 
 \## 📌 Funcionalidades
